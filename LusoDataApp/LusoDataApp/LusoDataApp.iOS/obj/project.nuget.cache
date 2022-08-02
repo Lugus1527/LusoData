@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/+o0/BmOcsL9IafuTe0xfnr7j4MPa9kap5+X47EFxvm02fFYfPoGIIOjAte9hpDi073VTzWxCtpAENp7OBJ2g==",
+  "success": true,
+  "projectFilePath": "C:\\LusoData\\LusoDataApp\\LusoDataApp\\LusoDataApp.iOS\\LusoDataApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
