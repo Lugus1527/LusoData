@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LusoDataApp.SignIn.xaml", "SignIn.xaml", typeof(global::LusoDataApp.SignIn))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LusoDataApp.EcradeRegistro.xaml", "EcradeRegistro.xaml", typeof(global::LusoDataApp.EcradeRegistro))]
 
 namespace LusoDataApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("SignIn.xaml")]
-    public partial class SignIn : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("EcradeRegistro.xaml")]
+    public partial class EcradeRegistro : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SignIn));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(EcradeRegistro));
         }
     }
 }

@@ -13,6 +13,9 @@ namespace LusoDataApp
             MainPage = new MainPage();
             
             MainPage = new NavigationPage(new MainPage());
+            CarouselPage carouselPage = new CarouselPage();
+            carouselPage.Children.Add(new LoginIn());
+
             
         }
 

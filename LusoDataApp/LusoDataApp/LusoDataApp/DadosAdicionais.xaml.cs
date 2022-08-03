@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace LusoDataApp
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class SignIn : ContentPage
+    public partial class DadosAdicionais : ContentPage
     {
-        public SignIn()
+        public DadosAdicionais()
         {
             InitializeComponent();
         }

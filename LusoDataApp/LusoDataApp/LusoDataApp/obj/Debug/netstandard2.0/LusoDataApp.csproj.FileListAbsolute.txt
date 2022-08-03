@@ -14,4 +14,4 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LusoDat
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\ref\LusoDataApp.dll
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LusoDataApp.pdb
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LoginIn.xaml.g.cs
-C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\SignIn.xaml.g.cs
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\EcradeRegistro.xaml.g.cs

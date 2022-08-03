@@ -21,6 +21,11 @@ namespace LusoDataApp
         {
 
         }
+
+        private async void BackToMainPage(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new MainPage());
+        }
     }
 
 

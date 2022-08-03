@@ -578,3 +578,6 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawab
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\googlelogo.png
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\googlelogo2.png
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\logogoogle.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\voltarbutton.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\voltarbutton2.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\lusodatalogo2.png

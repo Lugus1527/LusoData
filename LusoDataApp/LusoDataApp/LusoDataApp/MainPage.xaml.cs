@@ -20,11 +20,12 @@ namespace LusoDataApp
 
         private async void ToLoginInPage(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new LoginIn());
+           
+            await Navigation.PushModalAsync(new LoginIn());
         }
-        private void ToSignUpPage(object sender, EventArgs e)
+        private async void ToSignUpPage(object sender, EventArgs e)
         {
-
+            await Navigation.PushModalAsync(new EcradeRegistro());
         }
     }
 
