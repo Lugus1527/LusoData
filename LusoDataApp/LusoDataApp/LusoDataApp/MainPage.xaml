@@ -6,15 +6,15 @@
     <StackLayout Padding="20" VerticalOptions="Center" HorizontalOptions="FillAndExpand" >
         <Image Source="LusoDataLogo.png">   </Image>
 
-	    
-        <Button VerticalOptions="Center" Text="Entrar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" ></Button>
+
+        <Button VerticalOptions="Center" Text="Entrar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToLoginInPage" ></Button>
         <Label></Label>
-	    <Button VerticalOptions="Center" Text="Registrar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" ></Button>
+        <Button VerticalOptions="Center" Text="Registar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToSignUpPage"></Button>
+	    <Label></Label>
 
-
-        <ImageButton Source="GoogleLogo.png" 
-                     Aspect="Fill"
-                     
+        <ImageButton Source="LogoGoogle.png" 
+                     BackgroundColor="White"
+                     BorderColor="Black"
                      ></ImageButton>
 
     </StackLayout>

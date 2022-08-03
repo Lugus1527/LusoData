@@ -14,5 +14,16 @@ namespace LusoDataApp
         {
             InitializeComponent();
         }
+
+        private void ToLoginInPage(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new Page1();
+        }
+
+        private void ToSignUpPage(object sender, EventArgs e)
+        {
+         
+        }
+
     }
 }

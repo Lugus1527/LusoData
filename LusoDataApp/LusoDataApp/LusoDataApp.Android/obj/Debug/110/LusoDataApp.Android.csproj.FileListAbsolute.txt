@@ -576,3 +576,5 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\stamp\_Gen
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\lusodatalogo.png
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\googlelogo.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\googlelogo2.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\logogoogle.png
