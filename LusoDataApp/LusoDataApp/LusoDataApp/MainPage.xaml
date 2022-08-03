@@ -3,9 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LusoDataApp.MainPage">
 
-    <AbsoluteLayout>
-        <Entry Placeholder="Email" TextColor="Aqua" PlaceholderColor="AliceBlue"></Entry>
-	    <Entry Placeholder="Email" IsPassword="True" TextColor="Aqua" PlaceholderColor="AliceBlue"></Entry>
-    </AbsoluteLayout>
+    <StackLayout Padding="20" VerticalOptions="Center" HorizontalOptions="FillAndExpand" >
+        <Image Source="LusoDataLogo.png">   </Image>
+
+	    
+        <Button VerticalOptions="Center" Text="Entrar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" ></Button>
+        <Label></Label>
+	    <Button VerticalOptions="Center" Text="Registrar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" ></Button>
+
+
+        <ImageButton Source="GoogleLogo.png" 
+                     Aspect="Fill"
+                     
+                     ></ImageButton>
+
+    </StackLayout>
 
 </ContentPage>
