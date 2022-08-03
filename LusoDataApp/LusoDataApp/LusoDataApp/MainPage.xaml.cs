@@ -13,17 +13,22 @@ namespace LusoDataApp
         public MainPage()
         {
             InitializeComponent();
-        }
 
-        private void ToLoginInPage(object sender, EventArgs e)
+            
+        }
+      
+
+        private async void ToLoginInPage(object sender, EventArgs e)
         {
-            App.Current.MainPage = new Page1();
+            await Navigation.PushAsync(new LoginIn());
         }
-
         private void ToSignUpPage(object sender, EventArgs e)
         {
-         
-        }
 
+        }
     }
+
+     
+
+    
 }
