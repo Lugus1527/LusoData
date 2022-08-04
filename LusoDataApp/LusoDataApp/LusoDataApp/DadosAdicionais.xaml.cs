@@ -16,5 +16,15 @@ namespace LusoDataApp
         {
             InitializeComponent();
         }
+
+        private async void BackToMainPage(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new MainPage());
+        }
+
+        private async void ToAppMainPage(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new AppMainPage());
+        }
     }
 }

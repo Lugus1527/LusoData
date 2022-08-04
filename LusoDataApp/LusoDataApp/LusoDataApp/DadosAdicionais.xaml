@@ -2,11 +2,58 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LusoDataApp.DadosAdicionais">
-    <ContentPage.Content>
+
+	<ScrollView>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+	        <ImageButton Source="VoltarButton2.png" BackgroundColor="White" HorizontalOptions="Start"  Clicked="BackToMainPage"></ImageButton>
+
+	        <Image Source="LusoDataLogo2.png" HeightRequest="15" HorizontalOptions="Start" ></Image>
+	        <Label BackgroundColor="#A4C4DB"></Label>
+            <Label Text="Adicionar Dados (Opcional)" TextColor="#155C8F" FontAttributes="Italic" ></Label>
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="  Aqui poderá adicionar as suas despesas mensais, que irão servir como valores de referência para as estimativas que lhe serão apresentadas.Mais tarde poderá adicionar os valores exatos, o que fará com que as previsões futuras sejam mais corretas."
+                              TextColor="#6FA1C5"></Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Entry Placeholder="Ordenado" ></Entry>
+            <Label></Label>
+            <Entry Placeholder="Renda"></Entry>
+            <Label></Label>
+            <Entry Placeholder="Eletricidade"></Entry>
+            <Label></Label>
+            <Entry Placeholder="Agua"></Entry>
+            <Label></Label>
+            <Entry Placeholder="Combustivel"></Entry>
+            <Label></Label>
+            <Entry Placeholder="Alimentação"></Entry>
+	        <Label></Label>
+            <Entry Placeholder="Credito"></Entry>
+	        <Label></Label>
+            <Entry Placeholder="(Outras Despesas)"></Entry>
+	        <Label></Label>
+            <Switch ThumbColor="#155C8F" OnColor="#A4C4DB" HorizontalOptions="Start" ></Switch>
+	        <Label>
+		        <Label.FormattedText>
+			        <FormattedString>
+                        <Span Text="Partilhar dados anonimizados com a base de dados da LusoData de forma a receber melhores estimativas (recomendado)"
+				              TextColor="#6FA1C5"></Span>
+			        </FormattedString>
+		        </Label.FormattedText>
+	        </Label>
+            <Label></Label>
+
+
+            <Button VerticalOptions="Center" Text="Saltar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToAppMainPage"></Button>
+            <Label></Label>
+            <Button VerticalOptions="Center" Text="Seguinte" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToAppMainPage"></Button>
+            
+            
+
+
+
         </StackLayout>
-    </ContentPage.Content>
+	</ScrollView>
 </ContentPage>

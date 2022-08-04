@@ -18,7 +18,7 @@
 	    <Label></Label>
         <Entry Placeholder="Repetir a senha"></Entry>
 	    <Label></Label>
-        <Button VerticalOptions="Center" Text="Seguinte" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White"></Button>
+        <Button VerticalOptions="Center" Text="Seguinte" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToDadosAdicionais"></Button>
 
     </StackLayout>
 

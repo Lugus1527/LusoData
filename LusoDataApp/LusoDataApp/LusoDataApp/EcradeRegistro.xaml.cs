@@ -21,5 +21,10 @@ namespace LusoDataApp
         {
             await Navigation.PushModalAsync(new MainPage());
         }
+
+        private async void ToDadosAdicionais(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new DadosAdicionais());
+        }
     }
 }

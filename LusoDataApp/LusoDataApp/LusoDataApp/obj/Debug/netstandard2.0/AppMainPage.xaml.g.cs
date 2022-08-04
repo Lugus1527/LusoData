@@ -14,11 +14,15 @@ namespace LusoDataApp {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("AppMainPage.xaml")]
-    public partial class AppMainPage : global::Xamarin.Forms.ContentPage {
+    public partial class AppMainPage : global::Xamarin.Forms.TabbedPage {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Microcharts.Forms.ChartView chartViewBar;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(AppMainPage));
+            chartViewBar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Microcharts.Forms.ChartView>(this, "chartViewBar");
         }
     }
 }

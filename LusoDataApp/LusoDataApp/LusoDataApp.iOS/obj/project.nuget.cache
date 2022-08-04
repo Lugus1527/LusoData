@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "6/+o0/BmOcsL9IafuTe0xfnr7j4MPa9kap5+X47EFxvm02fFYfPoGIIOjAte9hpDi073VTzWxCtpAENp7OBJ2g==",
+  "dgSpecHash": "7T8jif9arRnVUkK6sPXKyGBBGK3UZGyHRPp2El2JxKYpUsM3haQCSpO4uaGXAupaQThiEGF8eHW1uoeRGwVJxg==",
   "success": true,
   "projectFilePath": "C:\\LusoData\\LusoDataApp\\LusoDataApp\\LusoDataApp.iOS\\LusoDataApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\theus\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\microcharts.forms\\0.9.5.9\\microcharts.forms.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
