@@ -611,3 +611,9 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\android\as
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\android\assets\System.Buffers.dll
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\android\assets\System.Memory.dll
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\overview.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\renda.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\eletricidade.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\agua.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\alimentacao.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\outrasdespesas.png

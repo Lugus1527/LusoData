@@ -2,7 +2,6 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\bin\Debug\netstandard2.0\LusoDat
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\bin\Debug\netstandard2.0\LusoDataApp.dll
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\bin\Debug\netstandard2.0\ref\LusoDataApp.dll
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\bin\Debug\netstandard2.0\LusoDataApp.pdb
-C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LusoDataApp.csproj.AssemblyReference.cache
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LusoDataApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
