@@ -10,13 +10,13 @@
         
         <Image Source="LusoDataLogo2.png" HeightRequest="15" HorizontalOptions="Start" ></Image>
         <Label BackgroundColor="#A4C4DB"></Label>
-        <Entry ReturnType="Next"  Placeholder="Nome "  ></Entry>
+        <Entry x:Name="nomeEntry" ReturnType="Next"  Placeholder="Nome"  ></Entry>
         <Label ></Label>
-        <Entry ReturnType="Next" Placeholder="Email"></Entry>
+        <Entry x:Name="emailEntry" ReturnType="Next" Placeholder="Email"></Entry>
 	    <Label></Label>
-        <Entry ReturnType="Next" Placeholder="Senha"></Entry>
+        <Entry x:Name="senhaEntry" ReturnType="Next" Placeholder="Senha"></Entry>
 	    <Label></Label>
-        <Entry Placeholder="Repetir a senha"></Entry>
+        <Entry x:Name="rSenhaEntry" Placeholder="Repetir a senha"></Entry>
 	    <Label></Label>
         <Button VerticalOptions="Center" Text="Seguinte" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToDadosAdicionais"></Button>
 

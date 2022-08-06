@@ -10,11 +10,11 @@
 		<Image Source="LusoDataLogo.png"></Image>
 
 
-		<Entry VerticalOptions="Center" Text="Email" TextColor="#155C8F"  BackgroundColor="White"  ></Entry>
+		<Entry x:Name="entryEmail" VerticalOptions="Center" Text="Email" TextColor="#155C8F"  BackgroundColor="White"  ></Entry>
 		<Label></Label>
-        <Entry VerticalOptions="Center" Text="Senha" IsPassword="True" TextColor="#155C8F"   BackgroundColor="White"></Entry>
+        <Entry x:Name="entrySenha" VerticalOptions="Center" Text="Senha" IsPassword="True" TextColor="#155C8F"   BackgroundColor="White"></Entry>
             <Label></Label>
-		<Button VerticalOptions="Center" Text="Entrar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" ></Button>
+		<Button VerticalOptions="Center" Text="Entrar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToAppMainPage" ></Button>
 		
 
 	</StackLayout>

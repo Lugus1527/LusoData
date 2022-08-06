@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using SQLite;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -24,7 +24,19 @@ namespace LusoDataApp
 
         private async void ToDadosAdicionais(object sender, EventArgs e)
         {
+            InformacoesUtilizador informacoesutilizador = new InformacoesUtilizador()
+            {
+                Nome = nomeEntry.Text,
+                Email = emailEntry.Text,
+                Senha = senhaEntry.Text,
+                
+
+            };
+            
+
+
             await Navigation.PushModalAsync(new DadosAdicionais());
+
         }
     }
 }

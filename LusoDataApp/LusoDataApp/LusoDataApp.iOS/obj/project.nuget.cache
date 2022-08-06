@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7T8jif9arRnVUkK6sPXKyGBBGK3UZGyHRPp2El2JxKYpUsM3haQCSpO4uaGXAupaQThiEGF8eHW1uoeRGwVJxg==",
+  "dgSpecHash": "o23XY4BOBEvzzbtI83xW/72uc1y3DTKs5NVZ5lZ7xaS8U5QGWKANL448MaSz8seWK2otjvHeUCLOqEy1BEm8Tg==",
   "success": true,
   "projectFilePath": "C:\\LusoData\\LusoDataApp\\LusoDataApp\\LusoDataApp.iOS\\LusoDataApp.iOS.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,14 @@
     "C:\\Users\\theus\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"

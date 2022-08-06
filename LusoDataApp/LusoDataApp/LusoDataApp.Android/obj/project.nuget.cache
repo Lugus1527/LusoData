@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mmqafEC8kdj9XZD+DzFBJmpf80ZC0F6rhaLRTT/vvpY7BnZs9RpET0GY3fpCH0FE/fOihcNVD8DEF/eaKjH5fA==",
+  "dgSpecHash": "JVXzJzD2KPv3gBfofDjy9GXeCxPHRg+amT+ezCvUYVkWL/LKePVvyz5U05B7HOAUq17kVaTEwOyDMcy3ARL6gw==",
   "success": true,
   "projectFilePath": "C:\\LusoData\\LusoDataApp\\LusoDataApp\\LusoDataApp.Android\\LusoDataApp.Android.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,15 @@
     "C:\\Users\\theus\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\theus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\theus\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
