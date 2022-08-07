@@ -8,25 +8,26 @@
             android:TabbedPage.ToolbarPlacement="Bottom"
             android:TabbedPage.BarItemColor="#8DD1FF"
             android:TabbedPage.BarSelectedItemColor="#008BE6"
-            >
+            android:TabbedPage.IsSmoothScrollEnabled="True"
+            android:TabbedPage.IsSwipePagingEnabled="True">
 
-    
+
     <ContentPage IconImageSource="Overview.png"  >
-        
-	    <microcharts:ChartView x:Name="chartViewBar" HeightRequest="300"  />
+
+	    <microcharts:ChartView x:Name="Overview"  />
+
 	    
-
-
-        
 
     </ContentPage>
 
-    <ContentPage IconImageSource="Alimentacao.png" >
-		<Label Text="Olá"></Label>
-	</ContentPage>
+
+
+    <ContentPage IconImageSource="Alimentacao.png"  >
+	    <microcharts:ChartView x:Name="Alimentacao"  />
+    </ContentPage>
 	<ContentPage IconImageSource="Eletricidade.png"  >
-		<Label Text="Olá"></Label>
-	</ContentPage>
+		<microcharts:ChartView x:Name="Eletricidade"  HeightRequest="300"  />
+    </ContentPage>
 	<ContentPage IconImageSource="Agua.png" >
 		<Label Text="Olá"></Label>
 	</ContentPage>

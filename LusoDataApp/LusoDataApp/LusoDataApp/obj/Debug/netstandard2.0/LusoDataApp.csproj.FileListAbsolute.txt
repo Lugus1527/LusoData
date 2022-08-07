@@ -16,3 +16,4 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LoginIn
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\EcradeRegistro.xaml.g.cs
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\AppMainPage.xaml.g.cs
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\DadosAdicionais.xaml.g.cs
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LusoDataApp.csproj.AssemblyReference.cache

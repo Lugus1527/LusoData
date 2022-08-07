@@ -2,16 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
+using LusoDataApp;
 
-using SQLite;
 
 
 namespace LusoDataApp
 {
     public class InformacoesUtilizador
     {
-       [PrimaryKey, AutoIncrement]
-       public string Nome
+       
+       
+        public string Nome
         {
             get;
             set;

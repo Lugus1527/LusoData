@@ -17,6 +17,8 @@ namespace LusoDataApp
             carouselPage.Children.Add(new LoginIn());
 
             
+
+            
         }
 
         protected override void OnStart()
