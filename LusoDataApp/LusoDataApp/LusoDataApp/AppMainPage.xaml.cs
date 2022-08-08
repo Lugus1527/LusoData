@@ -278,8 +278,8 @@ namespace LusoDataApp
             InitializeComponent();
             Overview.Chart = new DonutChart { Entries = overview, LabelTextSize=30 };
             Alimentacao.Chart = new LineChart { Entries = alimentacaochart, LabelTextSize = 30, LabelOrientation = Orientation.Horizontal};
-            Eletricidade.Chart = new LineChart { Entries = eletricidadechart, LabelTextSize = 30, LabelOrientation = Orientation.Horizontal };
-           
+            Eletricidade.Chart = new LineChart { Entries = eletricidadechart, LabelTextSize = 30, LabelOrientation = Orientation.Horizontal, };
+            
         }
        
 

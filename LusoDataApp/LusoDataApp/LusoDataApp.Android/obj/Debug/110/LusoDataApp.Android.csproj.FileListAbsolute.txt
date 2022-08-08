@@ -617,3 +617,5 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawab
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\agua.png
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\alimentacao.png
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\outrasdespesas.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\adicionardes.png
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp.Android\obj\Debug\110\res\drawable\definicoes.png

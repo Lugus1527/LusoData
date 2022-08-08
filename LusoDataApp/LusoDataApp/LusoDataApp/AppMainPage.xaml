@@ -11,31 +11,48 @@
             android:TabbedPage.IsSmoothScrollEnabled="True"
             android:TabbedPage.IsSwipePagingEnabled="True">
 
-
+    
     <ContentPage IconImageSource="Overview.png"  >
+        
 
-	    <microcharts:ChartView x:Name="Overview"  />
+	    <StackLayout>
+            <ImageButton  Source="Definicoes" HeightRequest="20" WidthRequest="20" BackgroundColor="White" Margin="20" HorizontalOptions="End"  VerticalOptions="End" ></ImageButton>
+            <Label Text="   Gastos do Mês" FontAttributes="Italic" FontSize="Medium" ></Label>
+		    <Label></Label>
+            <microcharts:ChartView x:Name="Overview" HeightRequest="200"  />
 
-	    
+            <Label Text="   Ultimos 6 Mêses" FontAttributes="Italic"  FontSize="Medium" ></Label>
+            <Label></Label>
+
+            <ScrollView>
+	            <microcharts:ChartView x:Name="Eletricidade"  HeightRequest="200"  />
+            </ScrollView>
+	        
+	        
+        </StackLayout>
+		
 
     </ContentPage>
 
-
+    
 
     <ContentPage IconImageSource="Alimentacao.png"  >
-	    <microcharts:ChartView x:Name="Alimentacao"  />
-    </ContentPage>
+		<microcharts:ChartView x:Name="Alimentacao"  />
+	</ContentPage>
 	<ContentPage IconImageSource="Eletricidade.png"  >
-		<microcharts:ChartView x:Name="Eletricidade"  HeightRequest="300"  />
-    </ContentPage>
+		
+	</ContentPage>
 	<ContentPage IconImageSource="Agua.png" >
 		<Label Text="Olá"></Label>
 	</ContentPage>
 	<ContentPage Title="Renda" >
 		<Label Text="Olá"></Label>
 	</ContentPage>
+    <ContentPage Title="Combustivel">
+
+    </ContentPage>
 	<ContentPage Title="Outras Despesas" >
 		<Label Text="Olá"></Label>
 	</ContentPage>
-    
+
 </TabbedPage>
