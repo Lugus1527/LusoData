@@ -26,9 +26,9 @@
             
 
             <ScrollView>
-	            <microcharts:ChartView x:Name="Eletricidade"  HeightRequest="200"  />
+	            <microcharts:ChartView x:Name="Overview6"  HeightRequest="200"  />
             </ScrollView>
-            <ImageButton Source="AdicionarDes.png"  HeightRequest="25" WidthRequest="25" BackgroundColor="White" Margin="20" HorizontalOptions="Center"  VerticalOptions="Start" Clicked="ToAdicionarDes"></ImageButton>
+            <ImageButton Source="AdicionarDes.png"  HeightRequest="25" WidthRequest="25" BackgroundColor="White" Margin="5" HorizontalOptions="Center"  VerticalOptions="Start" Clicked="ToAdicionarDes"></ImageButton>
 	        
 	        
         </StackLayout>
@@ -42,19 +42,19 @@
 		<microcharts:ChartView x:Name="Alimentacao"  />
 	</ContentPage>
 	<ContentPage IconImageSource="Eletricidade.png"  >
-		
-	</ContentPage>
-	<ContentPage IconImageSource="Agua.png" >
-		<Label Text="Olá"></Label>
-	</ContentPage>
-	<ContentPage Title="Renda" >
-		<Label Text="Olá"></Label>
-	</ContentPage>
-    <ContentPage Title="Combustivel">
-
+		<microcharts:ChartView x:Name="Eletricidade"  HeightRequest="200"  />
     </ContentPage>
-	<ContentPage Title="Outras Despesas" >
-		<Label Text="Olá"></Label>
-	</ContentPage>
+	<ContentPage IconImageSource="Agua.png" >
+		<microcharts:ChartView x:Name="Agua"  HeightRequest="200"  />
+    </ContentPage>
+	<ContentPage Title="Renda" >
+		<microcharts:ChartView x:Name="Renda"  HeightRequest="200"  />
+    </ContentPage>
+    <ContentPage Title="Combustivel">
+	    <microcharts:ChartView x:Name="Combustivel"  HeightRequest="200"  />
+    </ContentPage>
+	<ContentPage Title="OutrasDespesas" >
+		<microcharts:ChartView x:Name="OutrasDespesas"  HeightRequest="200"  />
+    </ContentPage>
 
 </TabbedPage>

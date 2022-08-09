@@ -20,19 +20,17 @@
             </Label>
             <Entry Placeholder="Ordenado" ></Entry>
             <Label></Label>
-            <Entry Placeholder="Renda"></Entry>
+            <Entry x:Name="entryRend" Placeholder="Renda"></Entry>
             <Label></Label>
-            <Entry Placeholder="Eletricidade"></Entry>
+            <Entry x:Name="entryEletr" Placeholder="Eletricidade"></Entry>
             <Label></Label>
-            <Entry Placeholder="Agua"></Entry>
+            <Entry x:Name="entryAgua" Placeholder="Agua"></Entry>
             <Label></Label>
-            <Entry Placeholder="Combustivel"></Entry>
+            <Entry x:Name="entryCombustivel" Placeholder="Combustivel"></Entry>
             <Label></Label>
-            <Entry Placeholder="Alimentação"></Entry>
+            <Entry x:Name="entryAlimentacao" Placeholder="Alimentação"></Entry>
 	        <Label></Label>
-            <Entry Placeholder="Credito"></Entry>
-	        <Label></Label>
-            <Entry Placeholder="(Outras Despesas)"></Entry>
+            <Entry x:Name="entryOutrasDesp" Placeholder="(Outras Despesas)"></Entry>
 	        <Label></Label>
             <Switch ThumbColor="#155C8F" OnColor="#A4C4DB" HorizontalOptions="Start" ></Switch>
 	        <Label>

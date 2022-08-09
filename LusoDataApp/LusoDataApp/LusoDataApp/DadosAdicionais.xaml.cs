@@ -24,6 +24,12 @@ namespace LusoDataApp
 
         private async void ToAppMainPage(object sender, EventArgs e)
         {
+            AppMainPage.Rendav = float.Parse(entryRend.Text);
+            AppMainPage.Alimentacaov = float.Parse(entryAlimentacao.Text);
+            AppMainPage.Combustivelv = float.Parse(entryCombustivel.Text);
+            AppMainPage.Eletricidadev = float.Parse(entryEletr.Text);
+            AppMainPage.Aguav = float.Parse(entryAgua.Text);
+            AppMainPage.OutrasDespesasv = float.Parse(entryOutrasDesp.Text);
             await Navigation.PushModalAsync(new AppMainPage());
         }
     }
