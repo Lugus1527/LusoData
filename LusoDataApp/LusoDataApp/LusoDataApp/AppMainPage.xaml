@@ -15,18 +15,20 @@
     <ContentPage IconImageSource="Overview.png"  >
         
 
-	    <StackLayout>
+	    <StackLayout> 
             <ImageButton  Source="Definicoes" HeightRequest="20" WidthRequest="20" BackgroundColor="White" Margin="20" HorizontalOptions="End"  VerticalOptions="End" ></ImageButton>
-            <Label Text="   Gastos do Mês" FontAttributes="Italic" FontSize="Medium" ></Label>
-		    <Label></Label>
+            <Label BackgroundColor="#008BE6"></Label>
+            <Label Text="   Gastos do Mês" FontAttributes="Italic, Bold" FontSize="Medium" ></Label>
+		    
             <microcharts:ChartView x:Name="Overview" HeightRequest="200"  />
 
-            <Label Text="   Ultimos 6 Mêses" FontAttributes="Italic"  FontSize="Medium" ></Label>
-            <Label></Label>
+            <Label Text="   Ultimos 6 Mêses" FontAttributes="Italic, Bold"  FontSize="Medium" ></Label>
+            
 
             <ScrollView>
 	            <microcharts:ChartView x:Name="Eletricidade"  HeightRequest="200"  />
             </ScrollView>
+            <ImageButton Source="AdicionarDes.png"  HeightRequest="25" WidthRequest="25" BackgroundColor="White" Margin="20" HorizontalOptions="Center"  VerticalOptions="Start" Clicked="ToAdicionarDes"></ImageButton>
 	        
 	        
         </StackLayout>

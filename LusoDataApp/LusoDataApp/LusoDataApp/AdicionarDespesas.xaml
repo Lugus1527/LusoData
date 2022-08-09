@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LusoDataApp.AdicionarDespesas">
+    <StackLayout>
+	    <Image Source="LusoDataLogo2.png" HeightRequest="15" HorizontalOptions="Start" Margin="5"></Image>
+	    <Label BackgroundColor="#A4C4DB"></Label>
+        <Label Text="Adicionar Despesas" FontSize="Title" FontAttributes="Bold,Italic" Margin="15"></Label>
+        <Entry Placeholder="Valor em  € "></Entry>
+        <Picker Title="Selecionar Despesa:"  >
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Renda</x:String>
+                    <x:String>Combustivel</x:String>
+                    <x:String>Água</x:String>
+                    <x:String>Alimentação</x:String>
+                    <x:String>Eletricidade</x:String>
+                    <x:String>Outras Despesas</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Label></Label>
+	    <Label></Label>
+	    <Label></Label>
+	    <Label></Label>
+        <Button  Text="Confirmar" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToAppMain" ></Button>
+        
+    </StackLayout>
+	
+</ContentPage>

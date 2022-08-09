@@ -281,8 +281,10 @@ namespace LusoDataApp
             Eletricidade.Chart = new LineChart { Entries = eletricidadechart, LabelTextSize = 30, LabelOrientation = Orientation.Horizontal, };
             
         }
-       
 
-
+        private async void ToAdicionarDes(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new AdicionarDespesas());
+        }
     }
 }

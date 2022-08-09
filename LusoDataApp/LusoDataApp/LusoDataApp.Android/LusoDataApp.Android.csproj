@@ -129,10 +129,10 @@
     <AndroidResource Include="Resources\drawable\OutrasDespesas.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\AdicionarDes.png" />
+    <AndroidResource Include="Resources\drawable\Definicoes.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Definicoes.png" />
+    <AndroidResource Include="Resources\drawable\AdicionarDes.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <ProjectExtensions>
