@@ -25,7 +25,7 @@ namespace LusoDataApp
         }
         private async void ToSignUpPage(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new EcradeRegistro());
+            await Navigation.PushModalAsync(new BemVindo());
         }
     }
 

@@ -19,3 +19,4 @@ C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\DadosAd
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\LusoDataApp.csproj.AssemblyReference.cache
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\AdicionarDespesas.xaml.g.cs
 C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\Definicoes.xaml.g.cs
+C:\LusoData\LusoDataApp\LusoDataApp\LusoDataApp\obj\Debug\netstandard2.0\BemVindo.xaml.g.cs

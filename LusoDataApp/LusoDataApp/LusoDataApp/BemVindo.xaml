@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LusoDataApp.BemVindo">
+    <StackLayout>
+
+        <Image Source="LusoDataLogo.png" HeightRequest="200"></Image>
+        <Label Text="Bem Vindo!" FontSize="Title" TextColor="#155C8F"></Label>
+        <Label BackgroundColor="#A4C4DB" HeightRequest="5"></Label>
+        <Label>
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text=" A LusoData é uma app de gestão de finanças pessoais criada com o objetivo de ir de encontro às necessidades da população portuguesa. 
+ Através da app, poderá registar despesas mensais, visualizar a distribuição das mesmas, bem como tendências ao longo de vários meses.
+                                               
+                                
+Futuramente, poderá também editar registos, calcular e simular contribuições fiscais, entre outras funcionalidades.Para começar, clique em Seguinte, e no próximo ecrã poderá adicionar as suas despesas habituais. Estas servirão para fazer um cálculo inicial dos seus gastos mensais, que poderá mais tarde ser ajustado.
+
+"></Span>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Label></Label>
+        <Button VerticalOptions="Center" Margin="50" Text="Seguinte" TextColor="#155C8F"  BorderColor="#155C8F" BorderWidth="1.5" CornerRadius="1" BackgroundColor="White" Clicked="ToEcradeRegistro"></Button>
+            
+        
+        
+
+
+
+    </StackLayout>
+</ContentPage>
